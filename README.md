@@ -16,6 +16,7 @@
 
 - 🎓 **M.S. CS & Information Systems** @ UNC Wilmington (exp. 2028)
 - 🏆 **Outstanding Graduate in Cybersecurity**, B.S.B.A. Cybersecurity (GPA 3.91), Cameron School of Business
+- 📜 **Cisco CCNA: Introduction to Networks** (2025)
 - 🧑‍🏫 **Graduate Teaching Assistant**, building a statistics tutoring **AI agent** that guides students with staged hints
 - 🔐 Interests: network security, digital forensics, ethical hacking, ML
 - 🇹🇷 Also studied at Marmara University, Istanbul
