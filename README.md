@@ -19,7 +19,7 @@
 - 🧑‍🏫 **Graduate Teaching Assistant**, building a statistics tutoring **AI agent** that guides students with staged hints
 - 🔐 Interests: network security, digital forensics, ethical hacking, ML
 - 🇹🇷 Also studied at Marmara University, Istanbul
-- 💼 Open to: _cybersecurity / security analyst internships_ ← kendine göre düzenle
+- 💼 Open to: **Summer 2027 internships** in Cybersecurity, Cloud Security, Security Engineering, SOC, GRC & DevSecOps
 
 ### Tech & tools
 
